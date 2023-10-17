@@ -22,7 +22,6 @@
     "svelte": "^4.0.5",
     "svelte-check": "^3.4.3",
     "svelte-sequential-preprocessor": "^2.0.1",
-    "twind": "^0.16.19",
     "typescript": "^5.0.0",
     "typescript-svelte-plugin": "^0.3.34",
     "vite": "^4.4.2"
